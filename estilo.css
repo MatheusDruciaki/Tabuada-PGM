@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap&#39;'); 
+body { font: 12pt Arial; } 
+h1, h2, h3 { font-family: 'Pacifico', cursive; font-weight: normal;}
+input[type=number] { font-size: 12pt; } 
+input[type=submit] {
+background-color: rgb(67, 67, 255);
+color: white;
+font-size: 12pt;
+padding: 5px;
+}
+*{
+text-align: center;
+background-color: darkolivegreen;
+}
+
